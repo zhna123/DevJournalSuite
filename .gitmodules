@@ -1,0 +1,9 @@
+[submodule "dev-journal-admin"]
+	path = dev-journal-admin
+	url = git@github.com:zhna123/dev-journal-admin.git
+[submodule "dev-journal"]
+	path = dev-journal
+	url = git@github.com:zhna123/dev-journal.git
+[submodule "dev-journal-api"]
+	path = dev-journal-api
+	url = git@github.com:zhna123/dev-journal-api.git
